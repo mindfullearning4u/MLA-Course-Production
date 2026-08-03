@@ -1320,3 +1320,757 @@ A Moodle page is complete only when:
 ✓ Navigation is clear.
 
 Students should never need to guess what to do next.
+
+---
+
+# Moodle Course Builder
+
+# Part 3A — Core Instructional Pages
+
+---
+
+# Purpose
+
+This section defines the construction standards for every core instructional page within an MLA lesson.
+
+The Unit and Lesson Map identifies which pages belong in each lesson.
+
+This document defines how each approved page is constructed inside Moodle.
+
+Every page must follow these specifications exactly.
+
+Do not redesign page structure.
+
+Do not omit required components.
+
+Do not simplify required instructions.
+
+The Moodle Course Builder builds the page exactly as approved.
+
+---
+
+# Lesson Overview Page
+
+## Purpose
+
+The Lesson Overview introduces the lesson.
+
+Students should understand:
+
+- what they are learning,
+- why it matters,
+- what work they will complete,
+- what evidence they will submit,
+- and what is expected before beginning the lesson.
+
+This page prepares students for the remainder of the lesson.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+Never create the Lesson Overview as:
+
+Assignment
+
+Quiz
+
+Book Chapter
+
+Label only
+
+Forum
+
+---
+
+## Placement
+
+Always the first instructional page.
+
+Every lesson begins here.
+
+No instructional activity should appear before the Lesson Overview.
+
+---
+
+## Required Header
+
+Display:
+
+Course Name
+
+Unit Number
+
+Lesson Number
+
+Lesson Title
+
+MLA Lesson ID
+
+Example
+
+BIOLOGY
+
+Unit 1
+
+Lesson 2
+
+Scientific Investigation
+
+BIO-U1-L2
+
+---
+
+## Lesson Focus
+
+Provide one concise paragraph explaining:
+
+What students will learn.
+
+Why the lesson is important.
+
+How it connects to previous learning.
+
+How it prepares students for later lessons.
+
+Avoid generic statements.
+
+---
+
+## Learning Objectives
+
+List measurable objectives.
+
+Examples
+
+Students will be able to:
+
+Explain...
+
+Compare...
+
+Analyze...
+
+Interpret...
+
+Calculate...
+
+Design...
+
+Construct...
+
+Avoid
+
+Understand...
+
+Learn about...
+
+Become familiar with...
+
+Objectives must be measurable.
+
+---
+
+## Standards
+
+Display only the primary MLA standards.
+
+Do not overwhelm students with numerous external standards.
+
+The Crosswalk contains detailed alignment.
+
+---
+
+## Evidence Checklist
+
+Students should immediately know what evidence they must produce.
+
+Separate evidence by submission.
+
+Example
+
+Notebook Evidence
+
+Vocabulary
+
+Notebook Task 1
+
+Notebook Task 2
+
+Lesson Review
+
+Independent Application
+
+Checkpoint
+
+Completed Investigation
+
+Data Table
+
+Analysis Questions
+
+Assessment
+
+Lesson Quiz
+
+Students should know exactly what they are responsible for.
+
+---
+
+## Student Expectations
+
+Explain:
+
+Complete every required page.
+
+Complete activities in order.
+
+Return to Moodle after Savvas.
+
+Retain notebook work.
+
+Submit required evidence.
+
+Review TOR feedback when available.
+
+---
+
+## Help and TOR Support
+
+Always include:
+
+Need Help?
+
+Contact your Teacher of Record if:
+
+A link does not work.
+
+A resource is unavailable.
+
+Instructions remain unclear.
+
+Include:
+
+Course
+
+Unit
+
+Lesson
+
+Page Name
+
+Screenshot when possible.
+
+---
+
+## Visual Requirements
+
+Include:
+
+Course Header
+
+Objective Box
+
+Evidence Box
+
+TOR Support Box
+
+Approved Colors
+
+Approved Typography
+
+Approved Spacing
+
+---
+
+## Accessibility
+
+Verify:
+
+Heading hierarchy
+
+Descriptive headings
+
+Alternative text
+
+Readable spacing
+
+Sufficient contrast
+
+---
+
+## Completion
+
+The Lesson Overview is complete when:
+
+Students understand:
+
+What they are learning.
+
+Why they are learning it.
+
+What they must complete.
+
+What they must submit.
+
+How to obtain assistance.
+
+---
+
+# Vocabulary Page
+
+## Purpose
+
+Vocabulary introduces the academic language required for successful completion of the lesson.
+
+Vocabulary should appear before students encounter the terms during instruction.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+---
+
+## Required Components
+
+Vocabulary Table
+
+Term
+
+Definition
+
+Student-friendly explanation
+
+Optional pronunciation
+
+Optional visual
+
+Vocabulary should match Savvas terminology unless approved otherwise.
+
+---
+
+## Student Directions
+
+Students should:
+
+Read each term.
+
+Review the definition.
+
+Write the term.
+
+Write the definition.
+
+Use their own words when instructed.
+
+Retain notebook work.
+
+---
+
+## Required Evidence
+
+Notebook Vocabulary
+
+Definitions
+
+Required diagrams when applicable
+
+---
+
+## Visual Requirements
+
+Vocabulary Box
+
+Term highlighted
+
+Readable spacing
+
+Optional icons
+
+---
+
+## Accessibility
+
+Tables include headings.
+
+Alternative text for visuals.
+
+Readable fonts.
+
+---
+
+## Completion
+
+Students know the vocabulary needed before instruction begins.
+
+---
+
+# Notebook Task Page
+
+## Purpose
+
+Notebook Tasks require students to actively process lesson content.
+
+Notebook Tasks create permanent learning evidence.
+
+Notebook Tasks are not optional.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+The submission activity is created separately.
+
+---
+
+## Required Components
+
+Task Title
+
+Purpose
+
+Student Directions
+
+Required Responses
+
+Notebook Requirements
+
+Submission Reminder
+
+---
+
+## Student Directions
+
+State:
+
+Exactly what students write.
+
+How responses are organized.
+
+Numbering requirements.
+
+Sentence requirements.
+
+Calculations required.
+
+Graphs required.
+
+Tables required.
+
+Diagrams required.
+
+Required labels.
+
+Do not write:
+
+Complete this in your notebook.
+
+Always explain exactly what must be written.
+
+---
+
+## Notebook Standards
+
+Include:
+
+Student Name
+
+Unit
+
+Lesson
+
+MLA Lesson ID
+
+Task Title
+
+Every notebook page should be identifiable.
+
+---
+
+## Required Evidence
+
+List:
+
+Vocabulary
+
+Responses
+
+Calculations
+
+Tables
+
+Graphs
+
+Diagrams
+
+Evidence required for grading.
+
+---
+
+## Reminder
+
+Students do NOT submit this page.
+
+Students complete the work.
+
+Submission occurs in the Notebook Evidence activity.
+
+---
+
+## Visual Requirements
+
+Notebook Box
+
+Instruction Box
+
+Evidence Reminder
+
+---
+
+## Accessibility
+
+Clear headings
+
+Lists
+
+Readable spacing
+
+---
+
+## Completion
+
+Students know exactly what to write.
+
+Students know exactly what evidence must be retained.
+
+---
+
+# Savvas Lesson Page
+
+## Purpose
+
+Direct students into the approved Savvas instructional resource.
+
+Students should never wonder:
+
+Where do I begin?
+
+Where do I stop?
+
+---
+
+## Moodle Activity Type
+
+URL
+
+or
+
+Page containing approved URL.
+
+---
+
+## Required Components
+
+Resource Name
+
+Purpose
+
+Student Directions
+
+Student Focus
+
+Notebook Reminder
+
+Completion Reminder
+
+---
+
+## Resource Information
+
+Display:
+
+Exact Savvas Title
+
+Exact Resource
+
+Exact Lesson
+
+Exact Topic
+
+---
+
+## Student Directions
+
+State:
+
+Click
+
+Open
+
+Begin at
+
+Complete
+
+Stop after
+
+Return to Moodle
+
+Do not abbreviate.
+
+---
+
+## Student Focus
+
+Explain what students should pay attention to.
+
+Examples
+
+Identify...
+
+Observe...
+
+Compare...
+
+Analyze...
+
+Record...
+
+Students should know why they are viewing the resource.
+
+---
+
+## Notebook Reminder
+
+State exactly:
+
+What should be recorded.
+
+Where.
+
+How.
+
+---
+
+## Visual Requirements
+
+Button
+
+Resource Box
+
+Notebook Reminder
+
+---
+
+## Accessibility
+
+Descriptive button
+
+Alternative text
+
+Readable spacing
+
+---
+
+## Completion
+
+Students know:
+
+Where to begin.
+
+Where to stop.
+
+What to record.
+
+What to do next.
+
+---
+
+# Reading Page
+
+## Purpose
+
+Guide students through assigned reading.
+
+Reading should never be passive.
+
+Students should know what to look for.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+or
+
+URL
+
+depending on approved Lesson Blueprint.
+
+---
+
+## Student Directions
+
+State:
+
+Read
+
+Beginning
+
+Ending
+
+Purpose
+
+Required Notes
+
+Notebook Requirements
+
+---
+
+## Student Focus
+
+Identify:
+
+Vocabulary
+
+Claims
+
+Evidence
+
+Patterns
+
+Processes
+
+Concepts
+
+Connections
+
+Students should read with purpose.
+
+---
+
+## Evidence
+
+Notebook Responses
+
+Reading Notes
+
+Required Analysis
+
+---
+
+## Completion
+
+Students understand:
+
+Why they read.
+
+What they should have learned.
+
+What they should have recorded.
