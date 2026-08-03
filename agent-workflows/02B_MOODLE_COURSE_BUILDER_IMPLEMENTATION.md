@@ -1600,3 +1600,699 @@ Every guided instructional page must include:
 ✓ Clear completion expectation
 
 Students should complete guided instruction without requiring verbal clarification from the Teacher of Record.
+
+---
+
+# Moodle Course Builder
+
+# Part 3 — Interactive Learning Components
+
+---
+
+# Purpose
+
+Interactive Learning Components provide students with opportunities to explore, investigate, analyze, experiment, and apply concepts using dynamic instructional resources.
+
+These components move students beyond passive reading.
+
+Students actively interact with information, collect evidence, analyze results, and develop deeper conceptual understanding.
+
+Interactive Learning Components should always support a clearly defined instructional objective.
+
+They should never exist solely because a simulation, lab, or activity is available.
+
+Every Interactive Learning Component must clearly explain:
+
+• Why students are completing the activity.
+
+• What they should pay attention to.
+
+• What evidence they should collect.
+
+• What they should record.
+
+• What they will submit.
+
+• How the activity connects to lesson objectives.
+
+---
+
+# Simulation Component
+
+## Purpose
+
+Simulations allow students to explore concepts that cannot easily be demonstrated using static instruction.
+
+Examples include:
+
+Scientific simulations
+
+Virtual labs
+
+Interactive models
+
+Mathematical manipulatives
+
+Economic simulations
+
+Geographic simulations
+
+Engineering simulations
+
+Interactive timelines
+
+Students should actively manipulate variables, observe results, and collect evidence.
+
+---
+
+## Moodle Activity Type
+
+URL
+
+External Tool
+
+Embedded Resource
+
+Page
+
+As defined by the Unit and Lesson Map.
+
+---
+
+## Placement
+
+Only where approved.
+
+Do not replace instruction with a simulation.
+
+Students should receive sufficient preparation before entering the simulation.
+
+---
+
+## Required Components
+
+Simulation Title
+
+Purpose
+
+Learning Goal
+
+Student Directions
+
+Observation Focus
+
+Notebook Requirements
+
+Checkpoint Reminder
+
+Next Activity
+
+---
+
+## Student Directions
+
+Directions must identify:
+
+Simulation title.
+
+Where students begin.
+
+Which controls students should use.
+
+Which variables students should change.
+
+How many trials should be completed.
+
+Required observations.
+
+Required notebook entries.
+
+When to stop.
+
+Where to return in Moodle.
+
+---
+
+## Student Focus
+
+Students should know exactly what they are investigating.
+
+Examples
+
+Observe how changing temperature affects pressure.
+
+Observe how slope changes the graph.
+
+Compare exponential growth and linear growth.
+
+Identify which variables remain constant.
+
+Students should never be told simply:
+
+Explore the simulation.
+
+---
+
+## Required Evidence
+
+Examples
+
+Observation table
+
+Notebook responses
+
+Graphs
+
+Screenshots
+
+Data table
+
+Written analysis
+
+Reflection
+
+---
+
+## Visual Requirements
+
+Simulation Button
+
+Observation Box
+
+Notebook Reminder
+
+Checkpoint Reminder
+
+---
+
+## Accessibility
+
+Alternative instructions when applicable.
+
+Keyboard accessibility when supported.
+
+Captioned media when available.
+
+Readable controls.
+
+---
+
+## Moodle Configuration
+
+Completion
+
+Student opens simulation.
+
+Additional completion requirements when approved.
+
+---
+
+## Definition of Done
+
+Students know:
+
+What the simulation teaches.
+
+What to manipulate.
+
+What to observe.
+
+What to record.
+
+What to submit.
+
+---
+
+# Laboratory Component
+
+## Purpose
+
+Laboratory activities develop scientific reasoning through structured investigation.
+
+Students gather evidence rather than simply reading about science.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+Assignment
+
+External Tool
+
+URL
+
+Combination
+
+As specified.
+
+---
+
+## Required Components
+
+Lab Title
+
+Purpose
+
+Safety Information
+
+Materials
+
+Procedure
+
+Student Directions
+
+Data Collection
+
+Analysis
+
+Evidence Requirements
+
+Submission
+
+---
+
+## Safety Requirements
+
+When applicable include:
+
+Required safety procedures.
+
+Simulation safety.
+
+Laboratory warnings.
+
+Equipment precautions.
+
+Students must review safety before beginning.
+
+---
+
+## Student Directions
+
+Specify:
+
+Beginning point.
+
+Procedure.
+
+Required observations.
+
+Required measurements.
+
+Required calculations.
+
+Required analysis.
+
+Required notebook entries.
+
+Required submission.
+
+Stopping point.
+
+---
+
+## Data Collection
+
+Clearly specify:
+
+Tables.
+
+Units.
+
+Measurements.
+
+Required precision.
+
+Required labels.
+
+Students should never create their own data format unless instructed.
+
+---
+
+## Required Evidence
+
+Data tables
+
+Calculations
+
+Analysis
+
+Conclusion
+
+Notebook
+
+Lab report
+
+Images when required
+
+---
+
+## Visual Requirements
+
+Procedure Box
+
+Safety Box
+
+Data Box
+
+Submission Box
+
+---
+
+## Definition of Done
+
+Students complete the investigation exactly as designed.
+
+---
+
+# Investigation Component
+
+## Purpose
+
+Investigations require students to answer a question using evidence.
+
+Students should use observations and reasoning.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+Assignment
+
+External Tool
+
+---
+
+## Student Directions
+
+State:
+
+Question to investigate.
+
+Resources.
+
+Procedure.
+
+Required evidence.
+
+Required notebook work.
+
+Required submission.
+
+---
+
+## Student Focus
+
+Students should understand:
+
+The investigative question.
+
+The evidence required.
+
+How conclusions should be supported.
+
+---
+
+## Required Evidence
+
+Data
+
+Observations
+
+Reasoning
+
+Conclusion
+
+Supporting evidence
+
+---
+
+## Definition of Done
+
+Students produce an evidence-based conclusion.
+
+---
+
+# Graph Analysis Component
+
+## Purpose
+
+Teach students to interpret graphical information.
+
+Graphs should support lesson objectives.
+
+Graphs should not appear without instructional purpose.
+
+---
+
+## Student Directions
+
+Students should:
+
+Read the graph.
+
+Identify variables.
+
+Interpret trends.
+
+Answer analysis questions.
+
+Support responses with graph evidence.
+
+---
+
+## Required Evidence
+
+Graph annotations.
+
+Written responses.
+
+Notebook analysis.
+
+---
+
+## Definition of Done
+
+Students correctly interpret the graph.
+
+---
+
+# Data Analysis Component
+
+## Purpose
+
+Students analyze quantitative information.
+
+Examples
+
+Tables
+
+Charts
+
+Experimental data
+
+Population data
+
+Financial data
+
+Historical data
+
+---
+
+## Student Directions
+
+Explain:
+
+What data should be examined.
+
+Patterns to identify.
+
+Required calculations.
+
+Required comparisons.
+
+Required conclusions.
+
+---
+
+## Required Evidence
+
+Completed analysis.
+
+Calculations.
+
+Graphs when required.
+
+Notebook responses.
+
+---
+
+## Definition of Done
+
+Students analyze data rather than merely reading it.
+
+---
+
+# Literary Analysis Component
+
+## Purpose
+
+Guide students through analysis of literature.
+
+Students should move beyond summary.
+
+---
+
+## Student Directions
+
+Students should identify:
+
+Theme
+
+Character
+
+Conflict
+
+Tone
+
+Figurative Language
+
+Author's Craft
+
+Evidence
+
+---
+
+## Required Evidence
+
+Notebook responses.
+
+Written analysis.
+
+Annotated text when required.
+
+---
+
+## Definition of Done
+
+Students support analysis using textual evidence.
+
+---
+
+# Rhetorical Analysis Component
+
+## Purpose
+
+Teach students to analyze persuasive writing and speaking.
+
+---
+
+## Student Directions
+
+Students should identify:
+
+Claim
+
+Evidence
+
+Reasoning
+
+Appeals
+
+Logical Fallacies
+
+Author's Purpose
+
+Audience
+
+---
+
+## Required Evidence
+
+Notebook.
+
+Analysis.
+
+Written responses.
+
+---
+
+## Definition of Done
+
+Students support conclusions with textual evidence.
+
+---
+
+# Historical Source Analysis Component
+
+## Purpose
+
+Teach students to evaluate historical documents.
+
+---
+
+## Student Directions
+
+Students should examine:
+
+Author
+
+Context
+
+Audience
+
+Purpose
+
+Evidence
+
+Bias
+
+Reliability
+
+Historical significance
+
+---
+
+## Required Evidence
+
+Document analysis.
+
+Written response.
+
+Notebook.
+
+---
+
+## Definition of Done
+
+Students analyze the source rather than summarize it.
+
+---
+
+# Interactive Learning Quality Checklist
+
+Every Interactive Learning Component must include:
+
+✓ Purpose
+
+✓ Student Directions
+
+✓ Student Focus
+
+✓ Required Evidence
+
+✓ Submission Reminder when applicable
+
+✓ Notebook Reminder when applicable
+
+✓ Accessibility
+
+✓ Visual Consistency
+
+✓ Transition to the Next Activity
+
+Students should never interact with a resource without understanding why they are using it.
