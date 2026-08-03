@@ -510,3 +510,813 @@ Do not substitute.
 The Course Architecture documents remain the academic authority.
 
 The Moodle Course Builder implements them.
+
+---
+
+# Moodle Page Construction Standards
+
+## Purpose
+
+This section defines the required construction standards for every Moodle page created by the Moodle Course Builder Agent.
+
+These standards ensure that every MLA course has a consistent instructional design, visual appearance, navigation structure, and student experience.
+
+Students should never have to learn a different navigation style simply because they moved from Algebra to Biology or from English to Government.
+
+The instructional content changes.
+
+The Moodle experience does not.
+
+---
+
+# Core Design Philosophy
+
+Every Moodle page must answer four questions immediately.
+
+1. Where am I?
+
+2. What am I supposed to do?
+
+3. Why am I doing it?
+
+4. What do I do next?
+
+If a student cannot answer those questions within a few seconds of opening the page, the page should be revised.
+
+---
+
+# Standard Page Layout
+
+Every instructional page shall follow the same visual hierarchy.
+
+------------------------------------------------
+
+Course Header
+
+Unit
+
+Lesson
+
+Page Title
+
+------------------------------------------------
+
+Brief Introduction
+
+------------------------------------------------
+
+Student Directions
+
+------------------------------------------------
+
+Required Evidence
+
+------------------------------------------------
+
+Important Notes
+
+------------------------------------------------
+
+Help and TOR Support
+
+------------------------------------------------
+
+Next Step
+
+------------------------------------------------
+
+Students should immediately recognize each section.
+
+Never rearrange the order unless specifically approved.
+
+---
+
+# Course Header
+
+Every page shall begin with the MLA course header.
+
+Example
+
+BIOLOGY
+
+Unit 1
+
+Lesson 2
+
+Notebook Task 1
+
+The header shall remain visually identical throughout the course.
+
+Do not redesign headers between lessons.
+
+---
+
+# Page Title
+
+Every page shall have one clear title.
+
+Examples
+
+Notebook Task 1
+
+Lesson Review
+
+Independent Application
+
+Checkpoint
+
+Vocabulary
+
+Guided Exploration
+
+Simulation
+
+Worked Example
+
+The page title should immediately tell the student the purpose of the page.
+
+---
+
+# Brief Introduction
+
+Every page begins with one brief paragraph.
+
+Purpose
+
+Tell students
+
+why this page exists
+
+and
+
+how it fits into the lesson.
+
+Example
+
+"In this activity you will learn the vocabulary required for the remainder of this lesson. These terms will be used throughout the lesson review, checkpoint, and unit assessment."
+
+Students should understand the purpose before beginning.
+
+---
+
+# Student Directions
+
+Student directions are the most important part of every page.
+
+Directions must be written as sequential steps.
+
+Never write directions as long paragraphs.
+
+Use numbered steps.
+
+Example
+
+1.
+
+Click
+
+What Is Science
+
+below.
+
+2.
+
+Read
+
+from
+
+What Science Is and Is Not
+
+through
+
+Scientific Theories.
+
+3.
+
+Write each vocabulary word in your notebook.
+
+4.
+
+Complete Notebook Task 1.
+
+5.
+
+Return to Moodle.
+
+6.
+
+Continue to the next page.
+
+---
+
+# Direction Standards
+
+Every instructional direction should use action verbs.
+
+Use:
+
+Click
+
+Open
+
+Read
+
+Watch
+
+Review
+
+Complete
+
+Write
+
+Record
+
+Compare
+
+Analyze
+
+Calculate
+
+Label
+
+Draw
+
+Upload
+
+Submit
+
+Return
+
+Continue
+
+Avoid vague phrases such as
+
+Review the lesson.
+
+Explore the material.
+
+Study the chapter.
+
+Complete the activity.
+
+Work through the lesson.
+
+Those instructions are incomplete.
+
+---
+
+# Savvas Navigation
+
+Whenever students leave Moodle,
+
+tell them exactly where they are going.
+
+Example
+
+Click
+
+Conducting an Investigation
+
+in Savvas.
+
+Begin at
+
+Introduction.
+
+Complete
+
+Screens 1 through 5.
+
+Stop after
+
+Investigation Summary.
+
+Return to Moodle.
+
+Never tell students
+
+Complete the Savvas lesson.
+
+The student must always know where to begin and where to stop.
+
+---
+
+# Student Focus
+
+After directions,
+
+tell students what they should pay attention to.
+
+Example
+
+As you read,
+
+identify
+
+the independent variable,
+
+the dependent variable,
+
+and
+
+the control variables.
+
+Example
+
+As you watch,
+
+notice how the author supports the central claim.
+
+This helps students understand why the activity was assigned.
+
+---
+
+# Required Evidence Section
+
+Every instructional page must clearly state
+
+what evidence students are expected to produce.
+
+Examples
+
+Vocabulary
+
+Notebook Responses
+
+Graph
+
+Data Table
+
+Essay
+
+Calculations
+
+Diagram
+
+Lab Results
+
+Screenshot
+
+Completed Activity
+
+Do not assume students know what should be retained.
+
+---
+
+# Submission Section
+
+If the page requires submission,
+
+identify:
+
+Submission Name
+
+Submission Location
+
+File Type
+
+Required Pages
+
+Labeling Requirements
+
+Example
+
+Notebook Evidence Submission
+
+Unit 1
+
+Lesson 2
+
+Upload
+
+One PDF
+
+or
+
+One clear scan.
+
+Include
+
+Student Name
+
+Unit
+
+Lesson
+
+---
+
+# Important Notes Box
+
+Important Notes should be visually separated.
+
+Use only for:
+
+Important reminders
+
+Common mistakes
+
+Required stopping points
+
+Special submission instructions
+
+Safety information
+
+Do not overuse this box.
+
+---
+
+# Help and TOR Support
+
+Every instructional page shall end with
+
+Help and TOR Support.
+
+Example
+
+Need Help?
+
+Contact your Teacher of Record if:
+
+A link does not work.
+
+A resource is unavailable.
+
+You do not understand the assignment.
+
+Include:
+
+Course
+
+Unit
+
+Lesson
+
+Page Name
+
+Screenshot when possible.
+
+Students should always know where to obtain assistance.
+
+---
+
+# Next Step
+
+Every page ends with
+
+what students should do next.
+
+Example
+
+After completing Notebook Task 1,
+
+continue to
+
+Vocabulary Review.
+
+Never allow students to guess the next activity.
+
+---
+
+# Visual Hierarchy
+
+Information should always appear in the following order.
+
+Header
+
+↓
+
+Page Title
+
+↓
+
+Introduction
+
+↓
+
+Directions
+
+↓
+
+Student Focus
+
+↓
+
+Required Evidence
+
+↓
+
+Submission
+
+↓
+
+Important Notes
+
+↓
+
+Help and TOR Support
+
+↓
+
+Next Step
+
+Every instructional page follows this hierarchy.
+
+---
+
+# Typography Standards
+
+Use Moodle-safe fonts only.
+
+Maintain consistency.
+
+Use:
+
+Heading 1
+
+Course Header
+
+Heading 2
+
+Page Title
+
+Heading 3
+
+Section Titles
+
+Body Text
+
+Student Directions
+
+Avoid decorative fonts.
+
+Avoid excessive capitalization.
+
+Avoid long paragraphs.
+
+---
+
+# Spacing Standards
+
+Separate every major section with whitespace.
+
+Student directions should never appear crowded.
+
+Lists should remain readable.
+
+Avoid walls of text.
+
+Students should easily scan the page.
+
+---
+
+# Numbered Lists
+
+Use numbered lists
+
+when order matters.
+
+Example
+
+1.
+
+Open the resource.
+
+2.
+
+Read.
+
+3.
+
+Record.
+
+4.
+
+Submit.
+
+Use bullet lists
+
+only when sequence is not important.
+
+---
+
+# Tables
+
+Tables should only be used
+
+when they improve readability.
+
+Examples
+
+Vocabulary
+
+Comparison
+
+Data
+
+Rubrics
+
+Assessment summaries
+
+Avoid unnecessarily complex tables.
+
+---
+
+# Button Standards
+
+Buttons should describe the destination.
+
+Good
+
+Open
+
+What Is Science
+
+Good
+
+Begin
+
+Investigation
+
+Good
+
+Submit Notebook Evidence
+
+Bad
+
+Click Here
+
+Bad
+
+Open
+
+Bad
+
+Next
+
+Buttons should always identify
+
+where students are going.
+
+---
+
+# Link Standards
+
+Every hyperlink should identify
+
+the exact destination.
+
+Example
+
+Open
+
+Scientific Method
+
+in Savvas
+
+Avoid
+
+Click Here
+
+Learn More
+
+Open Resource
+
+Students should know exactly what opens.
+
+---
+
+# Box Standards
+
+Every box has one purpose.
+
+Learning Objective Box
+
+Directions Box
+
+Notebook Evidence Box
+
+Submission Box
+
+Important Notes Box
+
+Help and TOR Support Box
+
+Do not invent additional box styles.
+
+Do not change colors randomly.
+
+---
+
+# Visual Consistency
+
+Every lesson within the course
+
+must use the same:
+
+Header
+
+Colors
+
+Boxes
+
+Buttons
+
+Spacing
+
+Typography
+
+Section Order
+
+Students should immediately recognize the layout.
+
+---
+
+# Color Standards
+
+Colors indicate function.
+
+Never decoration.
+
+Example
+
+Primary Color
+
+Course Header
+
+Secondary Color
+
+Instruction
+
+Accent Color
+
+Submission
+
+Warning Color
+
+Important Notes
+
+Help Color
+
+TOR Support
+
+Colors should remain consistent throughout the course.
+
+---
+
+# Accessibility Standards
+
+Every page shall:
+
+Use descriptive headings.
+
+Use descriptive links.
+
+Include alternative text.
+
+Maintain color contrast.
+
+Avoid using color alone.
+
+Support keyboard navigation when possible.
+
+Use readable spacing.
+
+Render correctly on common screen sizes.
+
+Accessibility is required,
+
+not optional.
+
+---
+
+# Definition of a Complete Moodle Page
+
+A Moodle page is complete only when:
+
+✓ Header exists.
+
+✓ Page title exists.
+
+✓ Introduction exists.
+
+✓ Student directions are complete.
+
+✓ Student focus is identified.
+
+✓ Required evidence is identified.
+
+✓ Submission instructions are complete when applicable.
+
+✓ Important Notes included when needed.
+
+✓ Help and TOR Support included.
+
+✓ Next Step included.
+
+✓ Visual hierarchy followed.
+
+✓ Accessibility requirements met.
+
+✓ Navigation is clear.
+
+Students should never need to guess what to do next.
