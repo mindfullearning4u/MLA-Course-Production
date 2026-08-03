@@ -3030,3 +3030,657 @@ Students should understand exactly what is expected without requiring clarificat
 Independent activities should measure learning rather than teach new concepts.
 
 The activity must clearly prepare students for the next stage of mastery.
+
+---
+
+# Part 5 — Assessment, Grading, Mastery, and Moodle Configuration
+
+---
+
+# Purpose
+
+This section defines how every assessment, grading activity, rubric, answer key, Teacher of Record (TOR) grading guide, gradebook item, completion rule, and restriction must be constructed inside Moodle.
+
+Assessment is not simply assigning grades.
+
+Assessment measures mastery.
+
+Every assessment activity must align with:
+
+- Lesson Objectives
+- Unit Objectives
+- MLA Standards
+- Course Crosswalk
+- Unit and Lesson Map
+- Required Student Evidence
+
+The Moodle Course Builder Agent builds every assessment exactly as specified.
+
+The Moodle Course Builder Agent does not determine:
+
+- what is assessed,
+- what standards are measured,
+- what mastery means,
+- or how many assessments should exist.
+
+Those decisions have already been made by the Course Architecture and Planning Agent.
+
+---
+
+# Notebook Evidence Submission
+
+## Purpose
+
+Notebook Evidence serves as the official MLA record of student learning.
+
+Students demonstrate learning through organized notebook work completed throughout the lesson.
+
+Notebook Evidence becomes one of the primary grading responsibilities of the Teacher of Record.
+
+---
+
+## Moodle Activity Type
+
+Assignment
+
+---
+
+## Placement
+
+Place immediately after the final Notebook Task identified in the Unit and Lesson Map.
+
+Never create Notebook Evidence before students complete the required notebook activities.
+
+---
+
+## Required Components
+
+Assignment Title
+
+Purpose
+
+Submission Instructions
+
+Required Evidence
+
+Accepted File Types
+
+Submission Limits
+
+Rubric
+
+TOR Grading Guidance
+
+Completion Rules
+
+---
+
+## Assignment Title
+
+Example
+
+Notebook Evidence Submission
+
+Unit 2
+
+Lesson 4
+
+Always include:
+
+Unit Number
+
+Lesson Number
+
+Never use generic titles such as:
+
+Notebook
+
+Upload
+
+Assignment
+
+Evidence
+
+---
+
+## Student Submission Instructions
+
+State exactly:
+
+What pages must be submitted.
+
+What order they should appear.
+
+Accepted file formats.
+
+Maximum number of files.
+
+Required labels.
+
+Student name requirements.
+
+MLA Lesson ID requirements.
+
+Image quality requirements.
+
+Examples
+
+Upload one PDF.
+
+Upload one scan.
+
+Upload one image per notebook page.
+
+Do not assume students understand submission expectations.
+
+---
+
+## Required Evidence
+
+List every required notebook item.
+
+Example
+
+Vocabulary
+
+Notebook Task 1
+
+Notebook Task 2
+
+Lesson Review
+
+Independent Application
+
+Graphs
+
+Calculations
+
+Data Tables
+
+Diagrams
+
+Students should know exactly what must appear in the submission.
+
+---
+
+# Notebook Evidence Rubric
+
+Every Notebook Evidence Assignment must contain a Moodle rubric.
+
+The rubric is used by the Teacher of Record.
+
+The rubric must align exactly with:
+
+Lesson Objectives
+
+Notebook Tasks
+
+Lesson Review
+
+Independent Application
+
+Standards
+
+Checkpoint
+
+---
+
+## Every Rubric Must Include
+
+Criterion
+
+Expected Evidence
+
+Expected Answer
+
+Acceptable Alternative Answers
+
+Required Vocabulary
+
+Required Calculations
+
+Required Diagrams
+
+Required Graphs
+
+Required Labels
+
+Common Student Errors
+
+Feedback Suggestions
+
+Remediation Suggestions
+
+Standards Measured
+
+---
+
+## Scoring Levels
+
+Provide:
+
+Exceeds Expectations
+
+Meets Expectations
+
+Approaching Expectations
+
+Below Expectations
+
+Incomplete
+
+Never use vague descriptions.
+
+The rubric should eliminate grading ambiguity.
+
+---
+
+# Answer Key Requirements
+
+Whenever objective answers exist:
+
+Provide:
+
+Correct Answer
+
+Worked Solution
+
+Explanation
+
+Acceptable Variations
+
+Expected Units
+
+Expected Labels
+
+Expected Graph
+
+Expected Diagram
+
+Reasoning
+
+The Teacher of Record should not reconstruct answers independently.
+
+---
+
+# Teacher of Record Guidance
+
+Every Notebook Rubric must contain:
+
+Common misconceptions.
+
+Frequent student errors.
+
+Suggested feedback.
+
+Suggested remediation.
+
+Suggested Savvas review.
+
+Suggested reassessment recommendation.
+
+---
+
+# Checkpoint Submission
+
+## Purpose
+
+Checkpoints measure lesson mastery.
+
+Students demonstrate independent understanding.
+
+Checkpoint evidence should support grading decisions.
+
+---
+
+## Moodle Activity Type
+
+Assignment
+
+---
+
+## Required Components
+
+Checkpoint Title
+
+Purpose
+
+Student Instructions
+
+Submission Instructions
+
+Required Evidence
+
+Rubric
+
+Answer Key
+
+TOR Guidance
+
+Completion Rules
+
+---
+
+## Required Student Directions
+
+State:
+
+What students complete.
+
+What must be submitted.
+
+What format is accepted.
+
+Submission location.
+
+Completion expectations.
+
+Students should never guess what belongs in the checkpoint.
+
+---
+
+## Checkpoint Rubric
+
+The Checkpoint Rubric follows the same construction standards as the Notebook Rubric.
+
+Include:
+
+Required evidence.
+
+Correct answers.
+
+Acceptable alternatives.
+
+Expected reasoning.
+
+Scoring criteria.
+
+Feedback.
+
+Remediation.
+
+Standards.
+
+---
+
+# Lesson Quiz
+
+## Moodle Activity Type
+
+Quiz
+
+---
+
+## Construction Standards
+
+Question count
+
+Randomization
+
+Attempts
+
+Feedback
+
+Completion
+
+Gradebook category
+
+Question bank
+
+Answer verification
+
+Correct answers
+
+Question order
+
+Stimulus verification
+
+Never modify assessment intent.
+
+---
+
+# Unit Pretest
+
+## Purpose
+
+Determine readiness for the unit.
+
+Support acceleration when approved.
+
+---
+
+## Verify
+
+Question pool.
+
+Randomization.
+
+Mastery threshold.
+
+Attempts.
+
+Feedback.
+
+Gradebook.
+
+Completion.
+
+Acceleration settings.
+
+---
+
+# Unit Assessment
+
+## Purpose
+
+Measure mastery of the unit.
+
+---
+
+## Construction Standards
+
+Question pool
+
+Randomization
+
+Attempts
+
+Feedback
+
+Gradebook
+
+Completion
+
+Restrictions
+
+Mastery threshold
+
+Standards
+
+Stimulus
+
+Correct answers
+
+Question bank
+
+---
+
+# Question Banks
+
+Every assessment should use the approved Moodle Question Bank structure.
+
+Categories should match:
+
+Course
+
+↓
+
+Unit
+
+↓
+
+Assessment
+
+Question names should remain meaningful.
+
+Never place questions into incorrect categories.
+
+---
+
+# Gradebook Configuration
+
+Every graded activity must belong to the correct gradebook category.
+
+Verify:
+
+Assignment Category
+
+Quiz Category
+
+Checkpoint Category
+
+Notebook Category
+
+Unit Assessment Category
+
+Point Values
+
+Grade to Pass
+
+Weighting
+
+Aggregation
+
+---
+
+# Completion Tracking
+
+Every Moodle activity should specify:
+
+Completion Method
+
+Required View
+
+Required Submission
+
+Required Grade
+
+Passing Grade
+
+Manual Completion only when approved.
+
+Completion should support the mastery model.
+
+---
+
+# Restrictions
+
+Restrictions must support instructional progression.
+
+Students should not:
+
+Skip required lessons.
+
+Skip required evidence.
+
+Bypass checkpoints.
+
+Bypass mastery.
+
+Accelerated students should follow approved acceleration rules.
+
+---
+
+# Navigation
+
+Students should always know:
+
+Previous Activity
+
+Current Activity
+
+Next Activity
+
+No dead ends.
+
+No hidden required activities.
+
+---
+
+# Final Builder Validation
+
+Before marking the unit complete verify:
+
+✓ Every page exists.
+
+✓ Every assignment exists.
+
+✓ Every rubric exists.
+
+✓ Every answer key exists.
+
+✓ Every TOR guide exists.
+
+✓ Every Notebook Submission exists.
+
+✓ Every Checkpoint exists.
+
+✓ Every Lesson Quiz exists.
+
+✓ Every Unit Pretest exists.
+
+✓ Every Unit Assessment exists.
+
+✓ Every Question Bank category exists.
+
+✓ Gradebook configured.
+
+✓ Completion tracking configured.
+
+✓ Restrictions configured.
+
+✓ Navigation complete.
+
+✓ Visual consistency maintained.
+
+✓ Accessibility verified.
+
+✓ Student directions complete.
+
+✓ Every required Moodle activity follows the Unit and Lesson Map.
+
+---
+
+# Definition of Done
+
+The Moodle Course Builder Agent is finished only when:
+
+✓ Every instructional page has been built.
+
+✓ Every Moodle activity has been created.
+
+✓ Every assessment has been built.
+
+✓ Every rubric has been created.
+
+✓ Every answer key has been documented.
+
+✓ Every Teacher of Record grading guide has been completed.
+
+✓ Every Notebook Evidence submission has been created.
+
+✓ Every Checkpoint submission has been created.
+
+✓ Every gradebook item has been configured.
+
+✓ Every completion rule has been configured.
+
+✓ Every restriction has been configured.
+
+✓ Every navigation element functions correctly.
+
+✓ Every student instruction is complete.
+
+✓ Every activity aligns with the approved Course Overview, Course Crosswalk, and Unit and Lesson Map.
+
+The completed unit should require no additional construction before the Unit and Course Audit Agent begins its review.
