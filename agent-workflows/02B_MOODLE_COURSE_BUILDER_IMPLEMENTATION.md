@@ -3684,3 +3684,498 @@ The Moodle Course Builder Agent is finished only when:
 ✓ Every activity aligns with the approved Course Overview, Course Crosswalk, and Unit and Lesson Map.
 
 The completed unit should require no additional construction before the Unit and Course Audit Agent begins its review.
+
+---
+
+# Moodle Course Builder
+
+# Part 6 — Final Builder Self-Validation
+
+---
+
+# Purpose
+
+The Moodle Course Builder Agent is responsible for ensuring that the completed Moodle unit accurately implements the approved academic blueprint before the Unit and Course Audit Agent begins its independent review.
+
+The Builder performs a construction verification.
+
+The Builder does not perform the independent audit.
+
+This self-validation is the Builder's final quality-control step. It confirms that every required component was constructed, configured, connected, and made usable before the work is handed to Agent 3.
+
+The Builder must correct construction defects discovered during self-validation. The Builder must not redesign the academic blueprint, change academic decisions, or approve its own work as academically compliant.
+
+If a required academic decision is missing or contradictory, stop and report the issue to the Course Architecture and Planning Agent. Do not invent a resolution.
+
+---
+
+# Self-Validation Rules
+
+The Builder shall:
+
+1. Validate the completed unit against the three authoritative planning files.
+2. Inspect every Moodle section, lesson, page, activity, assessment, and configuration.
+3. Test the unit from the student perspective.
+4. Test grading and feedback requirements from the Teacher of Record perspective.
+5. Correct construction errors before handoff.
+6. Record unresolved technical or source-access issues.
+7. Hand the unit to Agent 3 only after every applicable check passes.
+
+A check may be marked not applicable only when the approved Unit and Lesson Map confirms that the component is not required.
+
+Do not mark a missing required component as not applicable.
+
+Do not treat a partially configured activity as complete.
+
+Do not rely on Agent 3 to finish construction.
+
+---
+
+# Required Validation Sources
+
+Perform the self-validation against:
+
+- `courses/<course-name>/COURSE_OVERVIEW.md`
+- `courses/<course-name>/COURSE_CROSSWALK.md`
+- `courses/<course-name>/UNIT_AND_LESSON_MAP.md`
+- The assigned Savvas Instructor and Student materials
+- The approved Moodle course shell
+- The completed Moodle unit
+- Approved MLA naming, visual, accessibility, grading, and mastery requirements
+
+When these sources conflict, stop and report the conflict. Do not select a preferred interpretation independently.
+
+---
+
+# Academic Verification
+
+Verify:
+
+- [ ] Course Overview followed.
+- [ ] Course Crosswalk followed.
+- [ ] Unit and Lesson Map followed.
+- [ ] Unit sequence correct.
+- [ ] Lesson sequence correct.
+- [ ] Lesson objectives correct.
+- [ ] Standards correctly assigned.
+- [ ] Required Savvas resources included.
+- [ ] Required instructional pages created.
+- [ ] Required Notebook Tasks created.
+- [ ] Required Checkpoints created.
+- [ ] Required assessments created.
+
+For each lesson, compare the Moodle build directly with the approved lesson entry in the Unit and Lesson Map.
+
+Confirm:
+
+- The lesson title matches.
+- The MLA Lesson ID matches.
+- The lesson purpose matches.
+- The learning objectives match.
+- The standards match.
+- The approved page sequence matches.
+- The Moodle activity type for every component matches.
+- The Savvas title, location, beginning point, and stopping point match.
+- Notebook Evidence requirements match.
+- Checkpoint evidence requirements match.
+- Assessment placement and purpose match.
+- Rubric and answer-key requirements match.
+- No unapproved instructional page or activity was added.
+- No approved instructional page or activity was omitted.
+
+The Builder may correct implementation errors. The Builder may not change the academic plan.
+
+---
+
+# Student Experience Verification
+
+Review the completed unit using the student role or the closest available student-view method.
+
+Verify that students always know:
+
+- Where they are.
+- What they are learning.
+- What to click.
+- What will open.
+- Where to begin.
+- Where to stop.
+- What to complete.
+- What to record.
+- What to retain.
+- What to submit.
+- Where to submit.
+- Which file type to use.
+- How completion is determined.
+- What activity comes next.
+- How to contact the Teacher of Record.
+
+For every page and activity, confirm:
+
+- The course, unit, lesson, and page title are visible.
+- Directions appear in the correct sequence.
+- Directions use specific action verbs.
+- Savvas navigation identifies the exact resource.
+- Required evidence is stated explicitly.
+- Submission instructions identify the correct Moodle activity.
+- Links and buttons have descriptive labels.
+- The next step is clear.
+- Help and TOR Support is present where required.
+- No required instruction depends on verbal clarification.
+- No page contains placeholder text.
+- No page ends in a navigation dead end.
+
+Attempt to follow the unit in order as a student. If the student view cannot complete the required sequence without guessing, the build is not ready.
+
+---
+
+# Moodle Component Verification
+
+Verify every required Moodle component:
+
+- [ ] Pages
+- [ ] Books
+- [ ] Labels
+- [ ] URLs
+- [ ] Files
+- [ ] Assignments
+- [ ] Quizzes
+- [ ] Question Banks
+- [ ] Gradebook
+- [ ] Completion Tracking
+- [ ] Restrictions
+- [ ] Navigation
+- [ ] Visual Standards
+- [ ] Accessibility
+
+For each component, confirm:
+
+## Pages and Books
+
+- Titles match the approved naming convention.
+- Content is complete.
+- Page order is correct.
+- Headings and sections are properly structured.
+- Student directions are complete.
+- Completion settings are correct.
+
+## Labels
+
+- Labels support organization and do not replace required instructional pages.
+- Labels use approved wording and formatting.
+- Hidden or decorative labels do not interfere with navigation.
+
+## URLs and Files
+
+- Every link opens the intended resource.
+- Savvas links point to the correct course, topic, lesson, or resource.
+- Students have permission to access the destination.
+- Link text identifies the destination.
+- Required files open and display correctly.
+- File names are meaningful.
+- No teacher-only resource is exposed to students.
+
+## Assignments
+
+- Assignment names include the correct unit and lesson identifiers.
+- Submission instructions are complete.
+- Accepted file types are correct.
+- File-count limits are correct.
+- Online-text or file-upload settings match the blueprint.
+- Due-date and availability settings follow approved policy.
+- Rubrics and grading guides are attached where required.
+- Completion requires the correct student action.
+
+## Quizzes and Question Banks
+
+- Quiz title and placement are correct.
+- Question-bank category is correct.
+- Approved questions are used.
+- Stimuli remain connected to their questions.
+- Randomization, attempts, feedback, and answer visibility are correct.
+- Grade-to-pass and mastery settings are correct.
+- No answer is accidentally exposed before the approved time.
+
+## Gradebook
+
+- Every graded activity appears once.
+- Every item is in the correct category.
+- Point values and weights are correct.
+- Aggregation follows approved policy.
+- Ungraded pretests do not affect the final grade.
+- Hidden or duplicate items are removed or corrected.
+- Grade-to-pass settings support the mastery model.
+
+## Completion Tracking and Restrictions
+
+- Required views, submissions, grades, and passing conditions are configured.
+- Restrictions support the approved sequence.
+- Students cannot bypass required evidence or mastery.
+- Accelerated pathways follow only approved rules.
+- Restrictions do not create impossible loops.
+- Hidden prerequisites do not block students unexpectedly.
+
+---
+
+# Assessment Verification
+
+Verify every required assessment component:
+
+- [ ] Notebook Evidence
+- [ ] Checkpoint
+- [ ] Lesson Quiz
+- [ ] Unit Pretest
+- [ ] Unit Assessment
+- [ ] Rubrics
+- [ ] Answer Keys
+- [ ] TOR Guides
+- [ ] Gradebook
+- [ ] Mastery Settings
+
+For each assessment, confirm:
+
+- The assessment exists in the correct location.
+- Its title clearly identifies the unit and lesson.
+- Its purpose matches the academic blueprint.
+- It measures the assigned objectives and standards.
+- Student directions identify every required action.
+- Submission or quiz settings are complete.
+- Required stimuli, graphs, tables, passages, diagrams, and formulas display correctly.
+- Correct answers have been verified against the approved source.
+- Answer visibility follows policy.
+- Attempts and feedback follow policy.
+- Gradebook placement and point value are correct.
+- Completion and mastery conditions are correct.
+- Remediation or reassessment expectations are available to the TOR.
+
+Do not use this verification to rewrite questions or change assessment intent.
+
+---
+
+# Rubric Verification
+
+Verify every rubric aligns with:
+
+- Lesson Objectives
+- Notebook Tasks
+- Checkpoint
+- Assessment
+- Expected Answers
+- Acceptable Alternative Answers
+- Standards
+- Common Misconceptions
+- Feedback
+- Remediation
+
+For every criterion, confirm:
+
+- The criterion measures required student evidence.
+- Performance levels are observable and distinct.
+- Full-credit expectations are explicit.
+- Partial-credit expectations are explicit.
+- Incomplete or no-credit conditions are explicit.
+- Required vocabulary, calculations, units, labels, graphs, diagrams, and reasoning are included.
+- Expected answers are available to the TOR.
+- Acceptable alternatives are documented.
+- Common errors are identified.
+- Suggested feedback is usable.
+- Suggested remediation points to an appropriate resource.
+- The relevant standard is identified.
+- Students cannot see protected answer-key information.
+
+Test whether two qualified TORs could use the rubric and reach substantially consistent scores. If the rubric requires the TOR to reconstruct the expected response, it is incomplete.
+
+---
+
+# Teacher of Record Verification
+
+Review the completed unit from the TOR perspective.
+
+Confirm that the TOR can:
+
+- Identify every item requiring grading.
+- Find the correct rubric or grading guide.
+- Find expected answers and worked solutions.
+- Recognize acceptable alternative answers.
+- Identify common misconceptions.
+- Provide consistent feedback.
+- Assign remediation.
+- Determine whether mastery was achieved.
+- Locate the relevant standard.
+- Understand reassessment expectations.
+- Monitor completion and progress.
+
+The TOR should not need to rebuild the lesson, locate missing answers independently, or infer grading standards.
+
+---
+
+# Visual Verification
+
+Verify:
+
+- [ ] Headers
+- [ ] Boxes
+- [ ] Buttons
+- [ ] Spacing
+- [ ] Colors
+- [ ] Icons
+- [ ] Typography
+- [ ] Navigation
+- [ ] Consistency
+
+Confirm:
+
+- The approved course header appears consistently.
+- Unit and lesson identifiers are correct.
+- Each box style has one approved function.
+- Button labels identify their destinations.
+- Spacing supports scanning and readability.
+- Colors indicate function rather than decoration.
+- Icons are consistent and meaningful.
+- Typography follows approved hierarchy.
+- Tables remain readable.
+- Pages do not contain walls of text.
+- The visual pattern remains consistent across lessons.
+- Mobile-width layouts do not hide or overlap required information.
+
+Visual differences are acceptable only when the blueprint requires them.
+
+---
+
+# Accessibility Verification
+
+Verify:
+
+- [ ] Headings
+- [ ] Links
+- [ ] Alternative Text
+- [ ] Tables
+- [ ] Contrast
+- [ ] Captions
+- [ ] MathJax
+- [ ] Mobile Readability
+
+Confirm:
+
+- Headings follow a logical hierarchy.
+- Links use descriptive destination text.
+- Meaningful images include alternative text.
+- Decorative images are handled appropriately.
+- Tables contain header cells and remain understandable when read linearly.
+- Color contrast is sufficient.
+- Meaning is not communicated by color alone.
+- Videos include captions when available or required.
+- Transcripts or alternatives are supplied when required.
+- Mathematical notation renders correctly.
+- Equations remain readable with assistive technology where supported.
+- Keyboard navigation works for supported activities.
+- Instructions remain readable on common screen sizes.
+- No essential instruction is embedded only in an inaccessible image.
+
+Accessibility failures must be corrected before handoff.
+
+---
+
+# Navigation and Sequence Verification
+
+Move through the complete unit in order.
+
+Verify:
+
+- Unit Overview leads to the Unit Pretest.
+- Unit Pretest leads to Lesson 1.
+- Every lesson begins with the approved opening page.
+- Every activity appears in the approved sequence.
+- Savvas activities return students to the correct Moodle location.
+- Notebook Evidence submissions appear after the required notebook work.
+- Checkpoints appear after instruction and independent application.
+- Lesson quizzes appear in the approved locations.
+- The final lesson includes the approved synthesis and Unit Assessment.
+- Previous and next actions are clear.
+- Completion rules release the correct next activity.
+- No required activity is hidden or unreachable.
+- No optional activity blocks required progress.
+- The unit ends at the approved next step.
+
+Correct dead ends, broken sequences, and invalid restrictions before handoff.
+
+---
+
+# Final Questions
+
+Before completion, answer:
+
+1. Can a student complete this lesson independently?
+2. Can the TOR grade this lesson using the provided rubrics?
+3. Can another Builder understand this lesson?
+4. Does every page support mastery?
+5. Is every Moodle activity complete?
+
+The answer to every question must be yes.
+
+If any answer is no, the Builder must correct the construction or report the unresolved blueprint issue before handoff.
+
+---
+
+# Blocking Conditions
+
+Do not hand the unit to Agent 3 when:
+
+- A required planning file is missing.
+- The blueprint contains an unresolved contradiction.
+- A required Savvas resource is inaccessible.
+- A required page or activity is missing.
+- A link is broken.
+- Student directions are incomplete.
+- Submission instructions are incomplete.
+- A rubric, answer key, or TOR guide is missing.
+- Quiz or question-bank configuration is incomplete.
+- Gradebook settings are incorrect.
+- Completion or restriction rules are incorrect.
+- Navigation contains a dead end.
+- Accessibility requirements are unmet.
+- Placeholder text remains.
+- A required validation check fails.
+
+Correct the issue when it is a construction error.
+
+Report the issue when it requires an academic decision or unavailable external resource.
+
+---
+
+# Builder Handoff Readiness
+
+The unit is ready for Agent 3 only when:
+
+- [ ] Every applicable academic verification passes.
+- [ ] Every student-experience verification passes.
+- [ ] Every Moodle component verification passes.
+- [ ] Every assessment verification passes.
+- [ ] Every rubric verification passes.
+- [ ] Every TOR verification passes.
+- [ ] Every visual verification passes.
+- [ ] Every accessibility verification passes.
+- [ ] Every navigation and sequence verification passes.
+- [ ] Every final question is answered yes.
+- [ ] No blocking condition remains.
+
+The Builder shall then report:
+
+- Course name
+- Unit number and title
+- Lessons completed
+- Moodle components completed
+- Assessments completed
+- Rubrics and grading guides completed
+- Gradebook status
+- Completion and restriction status
+- Accessibility status
+- Any resolved construction defects
+- Any remaining non-blocking technical notes
+
+Do not create an independent audit report.
+
+Do not certify academic compliance.
+
+Do not begin Agent 3's work.
+
+Stop after confirming that the completed unit is ready for independent review by the Unit and Course Audit Agent.
