@@ -2296,3 +2296,737 @@ Every Interactive Learning Component must include:
 ✓ Transition to the Next Activity
 
 Students should never interact with a resource without understanding why they are using it.
+
+---
+
+# Moodle Course Builder
+
+# Part 4 — Independent Learning and Mastery Activities
+
+---
+
+# Purpose
+
+Independent Learning and Mastery Activities provide students with opportunities to demonstrate understanding after completing guided instruction.
+
+These activities require students to apply concepts independently using knowledge gained throughout the lesson.
+
+Students should demonstrate:
+
+- conceptual understanding,
+- procedural accuracy,
+- critical thinking,
+- analysis,
+- reasoning,
+- communication,
+- application of knowledge.
+
+These activities prepare students for Notebook Evidence, Checkpoints, Lesson Assessments, and Unit Assessments.
+
+The Moodle Course Builder Agent shall construct these activities exactly as defined in the approved Unit and Lesson Map.
+
+---
+
+# Independent Learning Philosophy
+
+Independent activities are not additional instruction.
+
+Students should already possess the knowledge required to complete them.
+
+Independent activities provide evidence of mastery.
+
+Students should work with minimal guidance.
+
+The Teacher of Record evaluates the completed evidence rather than providing live instruction during completion.
+
+---
+
+# Lesson Review Component
+
+## Purpose
+
+The Lesson Review reinforces key concepts taught during the lesson.
+
+Students review major ideas before demonstrating independent mastery.
+
+Lesson Reviews should summarize learning rather than introduce new concepts.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+or
+
+URL
+
+as specified in the Unit and Lesson Map.
+
+---
+
+## Placement
+
+Near the end of the lesson.
+
+Before Independent Application.
+
+Before the Checkpoint.
+
+---
+
+## Required Components
+
+Lesson Review Title
+
+Purpose
+
+Student Directions
+
+Review Questions
+
+Student Focus
+
+Notebook Reminder
+
+Transition
+
+---
+
+## Student Directions
+
+Clearly state:
+
+Review the assigned concepts.
+
+Answer every required question.
+
+Use complete sentences when required.
+
+Support responses with evidence.
+
+Use the lesson resources when instructed.
+
+Record all responses in your notebook.
+
+Proceed to the next activity after completion.
+
+---
+
+## Student Focus
+
+Students should identify:
+
+Major concepts
+
+Important vocabulary
+
+Key relationships
+
+Procedures
+
+Connections between ideas
+
+Common misconceptions
+
+---
+
+## Required Evidence
+
+Lesson Review responses
+
+Notebook entries
+
+Calculations
+
+Graphs
+
+Written explanations
+
+---
+
+## Visual Requirements
+
+Lesson Review Box
+
+Instruction Box
+
+Notebook Reminder
+
+---
+
+## Accessibility
+
+Readable spacing
+
+Clear headings
+
+Descriptive instructions
+
+---
+
+## Moodle Configuration
+
+Completion:
+
+Student views page.
+
+---
+
+## Definition of Done
+
+Students have reviewed every major lesson concept and produced the required evidence.
+
+---
+
+# Independent Application Component
+
+## Purpose
+
+Students independently apply lesson knowledge without guided instruction.
+
+This activity demonstrates readiness for mastery.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+Assignment
+
+URL
+
+External Tool
+
+As specified in the Unit and Lesson Map.
+
+---
+
+## Placement
+
+Immediately after Lesson Review.
+
+Before Checkpoint.
+
+---
+
+## Required Components
+
+Activity Title
+
+Purpose
+
+Student Directions
+
+Student Focus
+
+Required Evidence
+
+Notebook Reminder
+
+Submission Reminder
+
+---
+
+## Student Directions
+
+Clearly state:
+
+What activity students complete.
+
+Required resources.
+
+Required responses.
+
+Required calculations.
+
+Required explanations.
+
+Required notebook entries.
+
+Required submission.
+
+Expected completion.
+
+---
+
+## Student Focus
+
+Students should independently:
+
+Apply concepts.
+
+Solve problems.
+
+Analyze information.
+
+Evaluate evidence.
+
+Support conclusions.
+
+Explain reasoning.
+
+---
+
+## Required Evidence
+
+Written responses
+
+Calculations
+
+Graphs
+
+Diagrams
+
+Notebook work
+
+Completed activity
+
+---
+
+## Visual Requirements
+
+Independent Application Box
+
+Evidence Reminder
+
+Submission Reminder
+
+---
+
+## Accessibility
+
+Clear headings
+
+Readable spacing
+
+Alternative text
+
+---
+
+## Moodle Configuration
+
+Completion:
+
+Student completes required activity.
+
+---
+
+## Definition of Done
+
+Students independently demonstrate application of lesson learning.
+
+---
+
+# Writing Assignment Component
+
+## Purpose
+
+Writing assignments require students to communicate understanding using written language.
+
+Writing assignments measure reasoning, organization, and communication.
+
+---
+
+## Moodle Activity Type
+
+Assignment
+
+Page
+
+Combination
+
+---
+
+## Required Components
+
+Assignment Title
+
+Purpose
+
+Prompt
+
+Student Directions
+
+Writing Requirements
+
+Submission Instructions
+
+Rubric Reminder
+
+---
+
+## Student Directions
+
+Specify:
+
+Prompt
+
+Minimum requirements
+
+Formatting expectations
+
+Evidence expectations
+
+Citation requirements when applicable
+
+Submission requirements
+
+---
+
+## Writing Requirements
+
+Identify:
+
+Paragraphs
+
+Essay structure
+
+Complete sentences
+
+Grammar expectations
+
+Evidence requirements
+
+Vocabulary expectations
+
+---
+
+## Required Evidence
+
+Completed writing assignment
+
+Notebook planning when required
+
+Drafts when required
+
+---
+
+## Visual Requirements
+
+Writing Box
+
+Submission Box
+
+Rubric Reminder
+
+---
+
+## Accessibility
+
+Readable prompt
+
+Clear spacing
+
+Appropriate headings
+
+---
+
+## Moodle Configuration
+
+Assignment
+
+Online text
+
+File upload
+
+or
+
+Combination
+
+as approved.
+
+---
+
+## Definition of Done
+
+Students clearly understand the writing expectations before beginning.
+
+---
+
+# Project Component
+
+## Purpose
+
+Projects require students to integrate multiple lesson concepts into one comprehensive product.
+
+Projects emphasize synthesis and application.
+
+---
+
+## Moodle Activity Type
+
+Assignment
+
+---
+
+## Required Components
+
+Project Title
+
+Purpose
+
+Required Deliverables
+
+Student Directions
+
+Timeline
+
+Submission Requirements
+
+Rubric Reminder
+
+---
+
+## Student Directions
+
+Clearly specify:
+
+Project objective.
+
+Required steps.
+
+Required products.
+
+Required evidence.
+
+Required resources.
+
+Submission method.
+
+---
+
+## Required Deliverables
+
+Specify:
+
+Presentation
+
+Report
+
+Model
+
+Poster
+
+Video
+
+Research
+
+Portfolio
+
+Other approved product
+
+---
+
+## Required Evidence
+
+Final product
+
+Supporting evidence
+
+Planning documents when required
+
+Notebook entries when required
+
+---
+
+## Visual Requirements
+
+Project Box
+
+Submission Box
+
+Rubric Reminder
+
+---
+
+## Accessibility
+
+Clear headings
+
+Readable instructions
+
+Alternative text where applicable
+
+---
+
+## Moodle Configuration
+
+Assignment
+
+Completion:
+
+Student submits project.
+
+---
+
+## Definition of Done
+
+Students understand every project expectation before beginning.
+
+---
+
+# Performance Task Component
+
+## Purpose
+
+Performance Tasks require students to demonstrate authentic application of learning.
+
+Students produce evidence showing mastery of multiple objectives.
+
+---
+
+## Moodle Activity Type
+
+Assignment
+
+External Tool
+
+Combination
+
+---
+
+## Required Components
+
+Task Title
+
+Purpose
+
+Scenario
+
+Student Directions
+
+Required Evidence
+
+Submission Instructions
+
+Rubric Reminder
+
+---
+
+## Student Directions
+
+Specify:
+
+Scenario
+
+Required task
+
+Required evidence
+
+Performance expectations
+
+Submission process
+
+---
+
+## Student Focus
+
+Students should:
+
+Apply knowledge.
+
+Use evidence.
+
+Support reasoning.
+
+Communicate clearly.
+
+Demonstrate mastery.
+
+---
+
+## Required Evidence
+
+Performance product
+
+Written explanation
+
+Supporting documentation
+
+Notebook work when required
+
+---
+
+## Visual Requirements
+
+Performance Task Box
+
+Evidence Box
+
+Submission Box
+
+---
+
+## Accessibility
+
+Readable instructions
+
+Clear headings
+
+Alternative text where applicable
+
+---
+
+## Moodle Configuration
+
+Assignment
+
+Completion:
+
+Submission required.
+
+---
+
+## Definition of Done
+
+Students understand exactly how mastery will be demonstrated.
+
+---
+
+# Transition Standards
+
+Every Independent Learning Component ends with a transition.
+
+Examples:
+
+Continue to Notebook Evidence Submission.
+
+Continue to Checkpoint.
+
+Continue to Lesson Assessment.
+
+Continue to Unit Assessment.
+
+Students should never wonder what activity comes next.
+
+---
+
+# Independent Learning Quality Checklist
+
+Every Independent Learning Component must include:
+
+✓ Purpose
+
+✓ Student Directions
+
+✓ Student Focus
+
+✓ Required Evidence
+
+✓ Submission Instructions
+
+✓ Rubric Reminder
+
+✓ Visual Consistency
+
+✓ Accessibility
+
+✓ Transition to Next Activity
+
+Students should understand exactly what is expected without requiring clarification from the Teacher of Record.
+
+Independent activities should measure learning rather than teach new concepts.
+
+The activity must clearly prepare students for the next stage of mastery.
