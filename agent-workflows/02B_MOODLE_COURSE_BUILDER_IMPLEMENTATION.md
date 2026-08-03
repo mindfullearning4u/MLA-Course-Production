@@ -948,3 +948,655 @@ What they should learn.
 What evidence they should retain.
 
 What activity follows.
+
+---
+
+# Moodle Course Builder
+
+# Part 2 — Guided Instruction
+
+---
+
+# Purpose
+
+This section defines the standards for building guided instructional pages within an MLA lesson.
+
+Guided instruction occurs after students understand the lesson objectives and before they are expected to demonstrate independent mastery.
+
+These pages provide structured learning experiences that teach concepts, model thinking, demonstrate procedures, and prepare students for independent practice.
+
+The Moodle Course Builder Agent must construct every guided instructional page exactly as defined in the approved Unit and Lesson Map.
+
+Never invent instructional activities.
+
+Never omit approved instructional activities.
+
+Never substitute another activity type because it appears easier to build.
+
+---
+
+# Guided Instruction Philosophy
+
+Guided instruction teaches.
+
+Independent activities assess.
+
+Students should receive sufficient instruction before they are expected to demonstrate mastery.
+
+Every guided instructional page should answer:
+
+• What concept am I learning?
+
+• Why is this concept important?
+
+• How do I perform this skill correctly?
+
+• What should I notice?
+
+• How will I use this later?
+
+---
+
+# Guided Practice Page
+
+## Purpose
+
+Guided Practice allows students to immediately apply newly learned concepts while receiving structured guidance.
+
+Students should build confidence before completing independent work.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+or
+
+Book Chapter
+
+as specified in the Unit and Lesson Map.
+
+---
+
+## Placement
+
+Immediately after concept instruction.
+
+Before independent application.
+
+---
+
+## Required Components
+
+Page Title
+
+Purpose
+
+Student Directions
+
+Worked Examples
+
+Guided Questions
+
+Student Focus
+
+Notebook Reminder
+
+Transition to Next Activity
+
+---
+
+## Student Directions
+
+Directions must specify:
+
+What students should complete.
+
+How many items they should complete.
+
+Whether calculators may be used.
+
+Whether complete sentences are required.
+
+Whether work must be shown.
+
+Whether notebook responses are required.
+
+Never state:
+
+Practice the problems.
+
+Instead state:
+
+Complete Problems 1–6.
+
+Show every calculation.
+
+Circle the final answer.
+
+Record all work in your notebook.
+
+---
+
+## Student Focus
+
+Explain:
+
+What skill students are practicing.
+
+Common mistakes to avoid.
+
+Connections to previous lessons.
+
+Connections to the checkpoint.
+
+---
+
+## Required Evidence
+
+Identify:
+
+Practice responses
+
+Calculations
+
+Graphs
+
+Diagrams
+
+Written explanations
+
+---
+
+## Visual Requirements
+
+Worked Example Box
+
+Practice Box
+
+Notebook Reminder
+
+---
+
+## Accessibility
+
+Readable spacing.
+
+Numbered examples.
+
+Alternative text for diagrams.
+
+---
+
+## Moodle Configuration
+
+Completion:
+
+Student views page.
+
+---
+
+## Definition of Done
+
+Students know:
+
+Exactly what to practice.
+
+Exactly how to complete the practice.
+
+Exactly what work must be retained.
+
+---
+
+# Worked Example Page
+
+## Purpose
+
+Demonstrate expert thinking.
+
+Students observe the complete problem-solving process before completing similar work independently.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+---
+
+## Placement
+
+Immediately before Guided Practice.
+
+---
+
+## Required Components
+
+Problem
+
+Complete Solution
+
+Step-by-Step Explanation
+
+Reasoning
+
+Common Errors
+
+Student Focus
+
+---
+
+## Construction Standards
+
+Every step must include:
+
+Action
+
+Reason
+
+Result
+
+Never skip reasoning.
+
+Students should understand why each step occurs.
+
+---
+
+## Student Directions
+
+Read every step.
+
+Compare each step with your notes.
+
+Do not simply copy the solution.
+
+Identify the reasoning behind each decision.
+
+---
+
+## Required Evidence
+
+Notebook notes when required.
+
+Reflection when required.
+
+---
+
+## Visual Requirements
+
+Worked Example Box
+
+Highlighted Solution
+
+Step Numbers
+
+---
+
+## Accessibility
+
+Readable equations.
+
+Alternative text.
+
+MathJax where applicable.
+
+---
+
+## Definition of Done
+
+Students can follow the reasoning without instructor explanation.
+
+---
+
+# Guided Exploration
+
+## Purpose
+
+Guide students through discovery-based learning while still providing structure.
+
+Students explore concepts without being left to discover everything independently.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+URL
+
+or
+
+External Tool
+
+as specified.
+
+---
+
+## Required Components
+
+Purpose
+
+Exploration Activity
+
+Observation Questions
+
+Student Focus
+
+Notebook Reminder
+
+Transition
+
+---
+
+## Student Directions
+
+State:
+
+Open the activity.
+
+Complete the assigned sections.
+
+Record observations.
+
+Answer guiding questions.
+
+Return to Moodle.
+
+---
+
+## Student Focus
+
+Explain exactly what students should notice.
+
+Do not tell students only to "explore."
+
+---
+
+## Required Evidence
+
+Observations
+
+Responses
+
+Notebook entries
+
+Screenshots when required
+
+---
+
+## Definition of Done
+
+Students understand the intended concept before moving to independent work.
+
+---
+
+# Video Lesson
+
+## Purpose
+
+Provide visual instruction supporting the lesson objective.
+
+Videos supplement instruction.
+
+Videos do not replace instruction.
+
+---
+
+## Moodle Activity Type
+
+URL
+
+Embedded Media
+
+or
+
+Page
+
+---
+
+## Required Components
+
+Video Title
+
+Purpose
+
+Student Directions
+
+Viewing Focus
+
+Notebook Reminder
+
+Completion Reminder
+
+---
+
+## Student Directions
+
+State:
+
+Open the video.
+
+Watch the complete video.
+
+Pause when instructed.
+
+Record observations.
+
+Return to Moodle.
+
+---
+
+## Student Focus
+
+Tell students:
+
+What concepts to watch for.
+
+What examples are important.
+
+What terminology appears.
+
+---
+
+## Required Evidence
+
+Notes
+
+Vocabulary
+
+Reflection
+
+Notebook entries
+
+---
+
+## Visual Requirements
+
+Embedded player
+
+Caption reminder
+
+Notebook reminder
+
+---
+
+## Accessibility
+
+Captions available.
+
+Transcript when available.
+
+Alternative media when required.
+
+---
+
+## Definition of Done
+
+Students understand why the video was assigned.
+
+---
+
+# Presentation Page
+
+## Purpose
+
+Provide structured visual instruction.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+URL
+
+Embedded Presentation
+
+---
+
+## Student Directions
+
+Move through every slide.
+
+Read speaker notes when provided.
+
+Pause on highlighted examples.
+
+Record required notes.
+
+Return to Moodle.
+
+---
+
+## Student Focus
+
+Explain:
+
+Important diagrams.
+
+Key vocabulary.
+
+Important comparisons.
+
+---
+
+## Required Evidence
+
+Notebook notes.
+
+Required diagrams.
+
+Responses.
+
+---
+
+## Definition of Done
+
+Students understand the instructional concepts presented.
+
+---
+
+# Demonstration Page
+
+## Purpose
+
+Show students how a process is completed correctly before independent work.
+
+---
+
+## Moodle Activity Type
+
+Page
+
+Video
+
+Presentation
+
+External Tool
+
+---
+
+## Student Directions
+
+Observe each step.
+
+Compare with lesson notes.
+
+Identify why each step is performed.
+
+Record important observations.
+
+---
+
+## Student Focus
+
+Explain:
+
+Process
+
+Technique
+
+Reasoning
+
+Decision making
+
+---
+
+## Required Evidence
+
+Observation notes.
+
+Required responses.
+
+---
+
+## Definition of Done
+
+Students understand the demonstrated process before independent application.
+
+---
+
+# Transition Standards
+
+Every guided instructional page ends with a transition.
+
+Examples:
+
+Continue to Guided Practice.
+
+Continue to Independent Application.
+
+Continue to Notebook Task.
+
+Continue to Lesson Review.
+
+Students should never guess what comes next.
+
+---
+
+# Guided Instruction Quality Checklist
+
+Every guided instructional page must include:
+
+✓ Clear purpose
+
+✓ Student-friendly directions
+
+✓ Student focus
+
+✓ Required evidence
+
+✓ Notebook reminders when applicable
+
+✓ Transition to next activity
+
+✓ Visual consistency
+
+✓ Accessibility
+
+✓ Correct Moodle activity type
+
+✓ Clear completion expectation
+
+Students should complete guided instruction without requiring verbal clarification from the Teacher of Record.
