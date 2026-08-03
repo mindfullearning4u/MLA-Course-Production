@@ -1,0 +1,5 @@
+# Data Literacy for Teens
+
+Credit: 1.0
+
+Add course goals, prerequisites, pacing, mastery requirements, and assessment information.
